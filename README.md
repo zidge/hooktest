@@ -1,4 +1,4 @@
 hooktest
 ========
 
-github services testing
+GitHub services testing
